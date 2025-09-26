@@ -7,6 +7,6 @@
 
 - pip install dft_aim_siepic_laser_pic_project1
 
-or
+or for developers:
 
-- python -m pip install -e '/Users/lukasc/Documents/GitHub/DFT_AIM_SiEPIC_Laser_PIC_Project1'
+- python -m pip install -e 'PATH_TO_GITHUB/DFT_AIM_SiEPIC_Laser_PIC_Project1'
